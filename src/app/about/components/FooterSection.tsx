@@ -38,7 +38,7 @@ const FooterSection = ({ className = '' }: FooterSectionProps) => {
           <div>
             <h3 className="font-heading text-2xl font-semibold mb-4">Sample Assisted Living</h3>
             <p className="font-body text-base text-white/80 leading-relaxed mb-4">
-              Where grace meets care. Providing intimate, personalized assisted living in the heart of Phoenix.
+              Where grace meets care. Providing intimate, personalized assisted living in the heart of Scottsdale.
             </p>
             <div className="flex gap-4">
               <a
@@ -105,8 +105,8 @@ const FooterSection = ({ className = '' }: FooterSectionProps) => {
               </li>
               <li className="flex items-center gap-2">
                 <Icon name="EnvelopeIcon" size={20} className="flex-shrink-0" />
-                <a href="mailto:godsgraceaz.0823@gmail.com" className="transition-colors duration-300 ease-organic hover:text-white">
-                  godsgraceaz.0823@gmail.com
+                <a href="mailto:info@sampleassistedliving.com" className="transition-colors duration-300 ease-organic hover:text-white">
+                  info@sampleassistedliving.com
                 </a>
               </li>
             </ul>

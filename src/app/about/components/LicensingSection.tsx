@@ -36,7 +36,7 @@ const LicensingSection = ({ className = '' }: LicensingSectionProps) => {
     },
     {
       title: 'Healthcare Partnerships',
-      description: 'Established relationships with leading Phoenix healthcare providers and specialists.',
+      description: 'Established relationships with leading Scottsdale healthcare providers and specialists.',
       icon: 'BuildingOffice2Icon',
       downloadUrl: '#'
     },

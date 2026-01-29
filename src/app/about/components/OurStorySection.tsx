@@ -18,7 +18,7 @@ const OurStorySection = ({ className = '' }: OurStorySectionProps) => {
                 Sample Assisted Living began with a simple yet profound belief: that aging should be celebrated, not compromised. Our facility emerged from a deeply personal experience—caring for beloved family members who deserved more than what traditional care facilities could offer.
               </p>
               <p>
-                What started as a vision to create a true home environment has blossomed into a trusted boutique assisted living community in Phoenix. We&apos;ve intentionally remained small, ensuring that every individual receives the personalized attention, dignity, and genuine connection they deserve.
+                What started as a vision to create a true home environment has blossomed into a trusted boutique assisted living community in Scottsdale. We&apos;ve intentionally remained small, ensuring that every individual receives the personalized attention, dignity, and genuine connection they deserve.
               </p>
               <p>
                 Today, Sample Assisted Living stands as a testament to what senior care can be when it&apos;s rooted in faith, family values, professional excellence, and unwavering commitment to quality of life. We&apos;re not just a care facility—we&apos;re a chosen family where every day brings joy, purpose, and the comfort of truly being home.

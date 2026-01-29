@@ -5,11 +5,11 @@ import LifeHereInteractive from './components/LifeHereInteractive';
 export const metadata: Metadata = {
   title: "Life Here - Sample Assisted Living",
   description: "Experience the warmth, joy, and dignity of daily life at Sample Assisted Living. View our photo galleries, activity calendars, meal menus, and hear stories from our residents about their joyful lifestyle.",
-  keywords: ['assisted living lifestyle Phoenix', 'senior activities Arizona', 'assisted living photos', 'resident life Phoenix AZ'],
+  keywords: ['assisted living lifestyle Scottsdale', 'senior activities Arizona', 'assisted living photos', 'resident life Scottsdale AZ'],
   openGraph: {
     title: "Life Here - Sample Assisted Living",
     description: "Experience the warmth, joy, and dignity of daily life at Sample Assisted Living. View our photo galleries and activity calendars.",
-    url: 'https://godsgraceassisted.com/life-here',
+    url: 'https://sampleassistedliving.com/life-here',
     type: 'website',
     images: [
       {
@@ -27,7 +27,7 @@ export const metadata: Metadata = {
     images: ['/og-image.jpg'],
   },
   alternates: {
-    canonical: 'https://godsgraceassisted.com/life-here',
+    canonical: 'https://sampleassistedliving.com/life-here',
   },
 };
 

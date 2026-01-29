@@ -9,12 +9,12 @@ import CTASection from './components/CTASection';
 
 export const metadata: Metadata = {
   title: "Care Services - Sample Assisted Living",
-  description: 'Comprehensive assisted living services with personalized care plans, 24/7 supervision, home-cooked meals, and family-like atmosphere. Discover our intimate 10-resident care approach in Phoenix, Arizona.',
-  keywords: ['assisted living services Phoenix', 'senior care services Arizona', '24/7 elderly care', 'personalized care plans', 'medication management Phoenix AZ', 'Maricopa County care'],
+  description: 'Comprehensive assisted living services with personalized care plans, 24/7 supervision, home-cooked meals, and family-like atmosphere. Discover our intimate 10-resident care approach in Scottsdale, Arizona.',
+  keywords: ['assisted living services Scottsdale', 'senior care services Arizona', '24/7 elderly care', 'personalized care plans', 'medication management Scottsdale AZ', 'Maricopa County care'],
   openGraph: {
     title: "Care Services - Sample Assisted Living",
     description: 'Comprehensive assisted living services with personalized care plans, 24/7 supervision, and home-cooked meals in our intimate 10-resident facility.',
-    url: 'https://godsgraceassisted.com/services',
+    url: 'https://sampleassistedliving.com/services',
     type: 'website',
     images: [
       {
@@ -28,11 +28,11 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary_large_image',
     title: "Care Services - Sample Assisted Living",
-    description: 'Comprehensive assisted living services with personalized care plans and 24/7 supervision in Phoenix, AZ.',
+    description: 'Comprehensive assisted living services with personalized care plans and 24/7 supervision in Scottsdale, AZ.',
     images: ['/og-image.jpg'],
   },
   alternates: {
-    canonical: 'https://godsgraceassisted.com/services',
+    canonical: 'https://sampleassistedliving.com/services',
   },
 };
 
@@ -47,7 +47,7 @@ const serviceSchema = {
     address: {
       '@type': 'PostalAddress',
       streetAddress: '15826 North 10th Street',
-      addressLocality: 'Phoenix',
+      addressLocality: 'Scottsdale',
       addressRegion: 'AZ',
       postalCode: '85022',
     },
@@ -55,7 +55,7 @@ const serviceSchema = {
   serviceType: 'Assisted Living',
   areaServed: {
     '@type': 'City',
-    name: 'Phoenix',
+    name: 'Scottsdale',
     containedInPlace: {
       '@type': 'AdministrativeArea',
       name: 'Maricopa County, Arizona',

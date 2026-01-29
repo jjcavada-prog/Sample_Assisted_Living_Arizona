@@ -72,7 +72,7 @@ const ContactFooter: React.FC<ContactFooterProps> = ({ className = '' }) => {
                 <li className="flex items-start space-x-2">
                   <Icon name="MapPinIcon" size={18} className="text-background flex-shrink-0 mt-0.5" />
                   <span className="font-body text-sm text-background/80">
-                    15826 North 10th Street<br />Phoenix, AZ 85022
+                    15826 North 10th Street<br />Scottsdale, AZ 85022
                   </span>
                 </li>
                 <li className="flex items-center space-x-2">
@@ -87,10 +87,10 @@ const ContactFooter: React.FC<ContactFooterProps> = ({ className = '' }) => {
                 <li className="flex items-center space-x-2">
                   <Icon name="EnvelopeIcon" size={18} className="text-background flex-shrink-0" />
                   <a
-                    href="mailto:godsgraceaz.0823@gmail.com"
+                    href="mailto:info@sampleassistedliving.com"
                     className="font-body text-sm text-background/80 transition-colors duration-300 hover:text-primary"
                   >
-                    godsgraceaz.0823@gmail.com
+                    info@sampleassistedliving.com
                   </a>
                 </li>
               </ul>

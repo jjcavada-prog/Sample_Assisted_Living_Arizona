@@ -10,7 +10,7 @@ const HeroSection = ({ className = '' }: HeroSectionProps) => {
       <div className="absolute inset-0">
         <AppImage
           src="/heropage1.jpeg"
-          alt="Sample Assisted Living - Warm and inviting assisted living home in Phoenix, Arizona"
+          alt="Sample Assisted Living - Warm and inviting assisted living home in Scottsdale, Arizona"
           className="w-full h-full object-cover object-center"
           priority
         />
@@ -32,7 +32,7 @@ const HeroSection = ({ className = '' }: HeroSectionProps) => {
             Our Story: Where Family Meets Care
           </h1>
           <p className="font-body text-lg lg:text-xl font-light leading-relaxed text-white/90 max-w-xl">
-            Sample Assisted Living has been redefining assisted living in Phoenix—transforming the concept of senior care from institutional to intimate, from routine to remarkable.
+            Sample Assisted Living has been redefining assisted living in Scottsdale—transforming the concept of senior care from institutional to intimate, from routine to remarkable.
           </p>
         </div>
       </div>

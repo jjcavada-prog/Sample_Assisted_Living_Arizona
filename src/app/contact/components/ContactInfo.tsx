@@ -23,8 +23,8 @@ const contactMethods: ContactMethod[] = [
     id: 'email',
     icon: 'EnvelopeIcon',
     title: 'Email Us',
-    value: 'godsgraceaz.0823@gmail.com',
-    link: 'mailto:godsgraceaz.0823@gmail.com',
+    value: 'info@sampleassistedliving.com',
+    link: 'mailto:info@sampleassistedliving.com',
     description: 'Send us an email anytime'
   },
   {
@@ -32,7 +32,7 @@ const contactMethods: ContactMethod[] = [
     icon: 'MapPinIcon',
     title: 'Visit Us',
     value: '1234 Main Street, Scottsdale, AZ 85251',
-    link: 'https://maps.google.com/?q=15826+North+10th+Street+Phoenix+AZ+85022',
+    link: 'https://maps.google.com/?q=15826+North+10th+Street+Scottsdale+AZ+85022',
     description: 'Open for tours Monday - Saturday, 9 AM - 5 PM'
   },
   {

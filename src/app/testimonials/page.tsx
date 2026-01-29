@@ -6,12 +6,12 @@ import Icon from '@/components/ui/AppIcon';
 
 export const metadata: Metadata = {
   title: "Testimonials - Sample Assisted Living",
-  description: "Read authentic stories from families and residents who have experienced the warmth, care, and dignity of Sample Assisted Living in Phoenix, Arizona.",
-  keywords: ["Sample Assisted Living reviews", 'assisted living testimonials Phoenix', 'senior care reviews Arizona', 'family testimonials', 'Maricopa County care home'],
+  description: "Read authentic stories from families and residents who have experienced the warmth, care, and dignity of Sample Assisted Living in Scottsdale, Arizona.",
+  keywords: ["Sample Assisted Living reviews", 'assisted living testimonials Scottsdale', 'senior care reviews Arizona', 'family testimonials', 'Maricopa County care home'],
   openGraph: {
     title: "Testimonials - Sample Assisted Living",
     description: "Read authentic stories from families and residents who have experienced the warmth, care, and dignity of Sample Assisted Living.",
-    url: 'https://godsgraceassisted.com/testimonials',
+    url: 'https://sampleassistedliving.com/testimonials',
     type: 'website',
     images: [
       {
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
     images: ['/og-image.jpg'],
   },
   alternates: {
-    canonical: 'https://godsgraceassisted.com/testimonials',
+    canonical: 'https://sampleassistedliving.com/testimonials',
   },
 };
 
@@ -37,13 +37,13 @@ export const metadata: Metadata = {
 const reviewSchema = {
   '@context': 'https://schema.org',
   '@type': 'LocalBusiness',
-  '@id': 'https://godsgraceassisted.com/#localbusiness',
+  '@id': 'https://sampleassistedliving.com/#localbusiness',
   name: "Sample Assisted Living LLC",
-  image: 'https://godsgraceassisted.com/og-image.jpg',
+  image: 'https://sampleassistedliving.com/og-image.jpg',
   address: {
     '@type': 'PostalAddress',
     streetAddress: '15826 North 10th Street',
-    addressLocality: 'Phoenix',
+    addressLocality: 'Scottsdale',
     addressRegion: 'AZ',
     postalCode: '85022',
     addressCountry: 'US',
@@ -182,7 +182,7 @@ export default function TestimonialsPage() {
             <div>
               <h3 className="font-heading text-xl font-semibold mb-4">Sample Assisted Living</h3>
               <p className="text-white/80 font-body mb-4">
-                Family-sized assisted living in Phoenix, Arizona. Where every resident is family.
+                Family-sized assisted living in Scottsdale, Arizona. Where every resident is family.
               </p>
               <div className="flex gap-4">
                 <a href="#" className="text-white/80 hover:text-white transition-colors" aria-label="Facebook">
@@ -217,7 +217,7 @@ export default function TestimonialsPage() {
                 </li>
                 <li className="flex items-center gap-2">
                   <Icon name="EnvelopeIcon" size={20} className="flex-shrink-0" />
-                  <a href="mailto:godsgraceaz.0823@gmail.com" className="hover:text-white transition-colors">godsgraceaz.0823@gmail.com</a>
+                  <a href="mailto:info@sampleassistedliving.com" className="hover:text-white transition-colors">info@sampleassistedliving.com</a>
                 </li>
               </ul>
             </div>

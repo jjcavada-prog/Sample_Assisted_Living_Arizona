@@ -1,6 +1,8 @@
 import { MetadataRoute } from 'next';
 
-const siteUrl = 'https://godsgraceassisted.com';
+export const dynamic = 'force-static';
+
+const siteUrl = 'https://sample-assisted-living-arizona.netlify.app';
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const lastModified = new Date();

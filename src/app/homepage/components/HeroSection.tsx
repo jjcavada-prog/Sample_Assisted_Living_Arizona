@@ -53,8 +53,8 @@ const HeroSection = ({ className = '' }: HeroSectionProps) => {
             className="absolute inset-0 z-0"
           >
             <AppImage
-              src="/godsgraceheropage.jpeg"
-              alt="Sample - Warm and inviting assisted living home in Phoenix, Arizona"
+              src="/hero-image.jpeg"
+              alt="Sample - Warm and inviting assisted living home in Scottsdale, Arizona"
               className="w-full h-[120%] object-cover"
               priority
             />
@@ -83,7 +83,7 @@ const HeroSection = ({ className = '' }: HeroSectionProps) => {
                   >
                     <div className="h-px w-12 bg-accent" />
                     <span className="text-accent text-sm font-medium tracking-[0.2em] uppercase">
-                      Phoenix, Arizona
+                      Scottsdale, Arizona
                     </span>
                   </motion.div>
 

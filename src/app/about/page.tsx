@@ -10,12 +10,12 @@ import FooterSection from './components/FooterSection';
 
 export const metadata: Metadata = {
   title: "About Us - Sample Assisted Living",
-  description: "Discover the story behind Sample Assisted Living, our family-centered care philosophy, dedicated staff, and commitment to redefining assisted living in Phoenix with intimate, personalized attention for up to 10 residents.",
-  keywords: ["about Sample Assisted Living", 'assisted living staff Phoenix', 'senior care philosophy', 'family-centered care Arizona', 'Maricopa County care home'],
+  description: "Discover the story behind Sample Assisted Living, our family-centered care philosophy, dedicated staff, and commitment to redefining assisted living in Scottsdale with intimate, personalized attention for up to 10 residents.",
+  keywords: ["about Sample Assisted Living", 'assisted living staff Scottsdale', 'senior care philosophy', 'family-centered care Arizona', 'Maricopa County care home'],
   openGraph: {
     title: "About Us - Sample Assisted Living",
-    description: 'Discover our family-centered care philosophy and dedicated staff. Redefining assisted living in Phoenix with intimate, personalized attention for up to 10 residents.',
-    url: 'https://godsgraceassisted.com/about',
+    description: 'Discover our family-centered care philosophy and dedicated staff. Redefining assisted living in Scottsdale with intimate, personalized attention for up to 10 residents.',
+    url: 'https://sampleassistedliving.com/about',
     type: 'website',
     images: [
       {
@@ -29,11 +29,11 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary_large_image',
     title: "About Us - Sample Assisted Living",
-    description: 'Discover our family-centered care philosophy and dedicated staff in Phoenix, AZ.',
+    description: 'Discover our family-centered care philosophy and dedicated staff in Scottsdale, AZ.',
     images: ['/og-image.jpg'],
   },
   alternates: {
-    canonical: 'https://godsgraceassisted.com/about',
+    canonical: 'https://sampleassistedliving.com/about',
   },
 };
 

@@ -2,7 +2,7 @@ import React from 'react';
 import type { Metadata, Viewport } from 'next';
 import '../styles/index.css';
 
-const siteUrl = 'https://godsgraceassisted.com';
+const siteUrl = 'https://sampleassistedliving.com';
 
 export const viewport: Viewport = {
   width: 'device-width',
@@ -12,18 +12,18 @@ export const viewport: Viewport = {
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
   title: {
-    default: "Sample Assisted Living - Boutique Assisted Living in Phoenix, AZ",
+    default: "Sample Assisted Living - Boutique Assisted Living in Scottsdale, AZ",
     template: "%s | Sample Assisted Living",
   },
-  description: "Sample Assisted Living LLC provides personalized care for residents in a warm, home-like setting in Phoenix, Arizona with 24/7 supervision, home-cooked meals, and genuine human connection.",
+  description: "Sample Assisted Living LLC provides personalized care for residents in a warm, home-like setting in Scottsdale, Arizona with 24/7 supervision, home-cooked meals, and genuine human connection.",
   keywords: [
-    'assisted living Phoenix AZ',
-    'senior care Phoenix Arizona',
+    'assisted living Scottsdale AZ',
+    'senior care Scottsdale Arizona',
     'boutique assisted living',
     'small assisted living facility',
     'personalized senior care',
     'family-centered assisted living',
-    'Phoenix assisted living facility',
+    'Scottsdale assisted living facility',
     'Arizona senior care',
     'intimate care home',
     "Sample Assisted Living",
@@ -45,21 +45,21 @@ export const metadata: Metadata = {
     locale: 'en_US',
     url: siteUrl,
     siteName: "Sample Assisted Living",
-    title: "Sample Assisted Living - Boutique Assisted Living in Phoenix, AZ",
-    description: "Sample Assisted Living LLC provides personalized care in Phoenix, Arizona with dignity, joy, and genuine human connection.",
+    title: "Sample Assisted Living - Boutique Assisted Living in Scottsdale, AZ",
+    description: "Sample Assisted Living LLC provides personalized care in Scottsdale, Arizona with dignity, joy, and genuine human connection.",
     images: [
       {
         url: '/og-image.jpg',
         width: 1200,
         height: 630,
-        alt: "Sample Assisted Living - Boutique Assisted Living in Phoenix, Arizona",
+        alt: "Sample Assisted Living - Boutique Assisted Living in Scottsdale, Arizona",
       },
     ],
   },
   twitter: {
     card: 'summary_large_image',
-    title: "Sample Assisted Living - Boutique Assisted Living in Phoenix, AZ",
-    description: "Sample Assisted Living LLC provides personalized care in Phoenix, Arizona with dignity, joy, and genuine human connection.",
+    title: "Sample Assisted Living - Boutique Assisted Living in Scottsdale, AZ",
+    description: "Sample Assisted Living LLC provides personalized care in Scottsdale, Arizona with dignity, joy, and genuine human connection.",
     images: ['/og-image.jpg'],
   },
   robots: {
@@ -86,14 +86,14 @@ const localBusinessSchema = {
   '@type': 'AssistedLivingFacility',
   '@id': `${siteUrl}/#organization`,
   name: "Sample Assisted Living LLC",
-  description: "Sample Assisted Living LLC - boutique assisted living facility in Phoenix, Arizona providing personalized care. License: SAMPLE-001.",
+  description: "Sample Assisted Living LLC - boutique assisted living facility in Scottsdale, Arizona providing personalized care. License: SAMPLE-001.",
   url: siteUrl,
   telephone: '+1-480-765-7128',
-  email: 'godsgraceaz.0823@gmail.com',
+  email: 'info@sampleassistedliving.com',
   address: {
     '@type': 'PostalAddress',
     streetAddress: '15826 North 10th Street',
-    addressLocality: 'Phoenix',
+    addressLocality: 'Scottsdale',
     addressRegion: 'AZ',
     postalCode: '85022',
     addressCountry: 'US',
@@ -114,7 +114,7 @@ const localBusinessSchema = {
   sameAs: [],
   areaServed: {
     '@type': 'City',
-    name: 'Phoenix',
+    name: 'Scottsdale',
     containedInPlace: {
       '@type': 'AdministrativeArea',
       name: 'Maricopa County, Arizona',
@@ -173,11 +173,11 @@ const organizationSchema = {
   name: "Sample Assisted Living LLC",
   url: siteUrl,
   logo: `${siteUrl}/logo.png`,
-  description: "Sample Assisted Living LLC - boutique assisted living facility providing family-centered care in Phoenix, Arizona. License: SAMPLE-001.",
+  description: "Sample Assisted Living LLC - boutique assisted living facility providing family-centered care in Scottsdale, Arizona. License: SAMPLE-001.",
   address: {
     '@type': 'PostalAddress',
     streetAddress: '15826 North 10th Street',
-    addressLocality: 'Phoenix',
+    addressLocality: 'Scottsdale',
     addressRegion: 'AZ',
     postalCode: '85022',
     addressCountry: 'US',

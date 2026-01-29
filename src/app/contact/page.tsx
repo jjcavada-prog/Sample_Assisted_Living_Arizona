@@ -10,12 +10,12 @@ import ContactFooter from './components/ContactFooter';
 
 export const metadata: Metadata = {
   title: "Contact & Schedule Tour - Sample Assisted Living",
-  description: "Schedule a personal tour of Sample Assisted Living in Phoenix, AZ. Experience family-centered assisted living care firsthand. Multiple contact options available including phone and virtual tours.",
-  keywords: ["contact Sample Assisted Living", 'schedule tour assisted living Phoenix', 'Phoenix AZ senior care contact', 'assisted living tour Arizona', 'Maricopa County care home'],
+  description: "Schedule a personal tour of Sample Assisted Living in Scottsdale, AZ. Experience family-centered assisted living care firsthand. Multiple contact options available including phone and virtual tours.",
+  keywords: ["contact Sample Assisted Living", 'schedule tour assisted living Scottsdale', 'Scottsdale AZ senior care contact', 'assisted living tour Arizona', 'Maricopa County care home'],
   openGraph: {
     title: "Contact & Schedule Tour - Sample Assisted Living",
-    description: "Schedule a personal tour of Sample Assisted Living. Experience family-centered assisted living care firsthand in Phoenix, AZ.",
-    url: 'https://godsgraceassisted.com/contact',
+    description: "Schedule a personal tour of Sample Assisted Living. Experience family-centered assisted living care firsthand in Scottsdale, AZ.",
+    url: 'https://sampleassistedliving.com/contact',
     type: 'website',
     images: [
       {
@@ -29,11 +29,11 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary_large_image',
     title: "Contact & Schedule Tour - Sample Assisted Living",
-    description: 'Schedule a personal tour of our boutique assisted living facility in Phoenix, AZ.',
+    description: 'Schedule a personal tour of our boutique assisted living facility in Scottsdale, AZ.',
     images: ['/og-image.jpg'],
   },
   alternates: {
-    canonical: 'https://godsgraceassisted.com/contact',
+    canonical: 'https://sampleassistedliving.com/contact',
   },
 };
 

@@ -53,9 +53,9 @@ const CommunityImpactSection = ({ className = '' }: CommunityImpactSectionProps)
       alt: 'Hospice of the Valley logo featuring caring hands symbol'
     },
     {
-      name: 'Phoenix Medical Group',
+      name: 'Scottsdale Medical Group',
       logo: 'https://images.unsplash.com/photo-1551076805-e1869033e561?w=200&q=80',
-      alt: 'Phoenix Medical Group professional healthcare logo with medical cross'
+      alt: 'Scottsdale Medical Group professional healthcare logo with medical cross'
     },
     {
       name: 'Arizona Senior Care Network',
@@ -66,7 +66,7 @@ const CommunityImpactSection = ({ className = '' }: CommunityImpactSectionProps)
 
   const awards = [
     'Arizona Excellence in Senior Care Award (2016)',
-    'Phoenix Community Impact Recognition (2019)',
+    'Scottsdale Community Impact Recognition (2019)',
     'Best Small Assisted Living Facility - Maricopa County (2021)',
     'Family Choice Award for Senior Care (2023)'
   ];
@@ -79,7 +79,7 @@ const CommunityImpactSection = ({ className = '' }: CommunityImpactSectionProps)
             Community Impact & Recognition
           </h2>
           <p className="font-body text-xl text-foreground/70 leading-relaxed">
-            Our commitment to excellence extends beyond our walls, making a meaningful difference in the Phoenix community and earning recognition for our dedication to quality care.
+            Our commitment to excellence extends beyond our walls, making a meaningful difference in the Scottsdale community and earning recognition for our dedication to quality care.
           </p>
         </div>
 

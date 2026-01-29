@@ -34,7 +34,7 @@ const TimelineSection = ({ className = '' }: TimelineSectionProps) => {
     {
       year: '2018',
       title: 'Healthcare Partnerships',
-      description: 'Established partnerships with leading Phoenix healthcare providers, hospice services, and medical specialists.'
+      description: 'Established partnerships with leading Scottsdale healthcare providers, hospice services, and medical specialists.'
     },
     {
       year: '2020',
@@ -62,7 +62,7 @@ const TimelineSection = ({ className = '' }: TimelineSectionProps) => {
               Our Journey
             </h2>
             <p className="font-body text-xl text-foreground/70 leading-relaxed">
-              A decade of dedication to redefining senior care in Phoenix
+              A decade of dedication to redefining senior care in Scottsdale
             </p>
           </div>
           <div className="max-w-4xl mx-auto space-y-8">
@@ -103,7 +103,7 @@ const TimelineSection = ({ className = '' }: TimelineSectionProps) => {
             Our Journey
           </h2>
           <p className="font-body text-xl text-foreground/70 leading-relaxed">
-            A decade of dedication to redefining senior care in Phoenix
+            A decade of dedication to redefining senior care in Scottsdale
           </p>
         </div>
 

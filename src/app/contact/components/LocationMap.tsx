@@ -12,7 +12,7 @@ const LocationMap: React.FC<LocationMapProps> = ({ className = '' }) => {
         <div className="max-w-6xl mx-auto">
           <div className="text-center mb-12">
             <h2 className="font-heading text-3xl md:text-4xl font-semibold text-foreground mb-4">
-              Find Us in Phoenix
+              Find Us in Scottsdale
             </h2>
             <p className="font-body text-lg text-muted-foreground max-w-2xl mx-auto">
               Located in a peaceful residential neighborhood in Maricopa County with easy access to healthcare facilities, shopping, and community amenities.
@@ -46,13 +46,13 @@ const LocationMap: React.FC<LocationMapProps> = ({ className = '' }) => {
                     </h3>
                     <p className="font-body text-base text-muted-foreground">
                       15826 North 10th Street<br />
-                      Phoenix, AZ 85022
+                      Scottsdale, AZ 85022
                     </p>
                   </div>
                 </div>
 
                 <a
-                  href="https://maps.google.com/?q=15826+North+10th+Street+Phoenix+AZ+85022"
+                  href="https://maps.google.com/?q=15826+North+10th+Street+Scottsdale+AZ+85022"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center justify-center w-full px-6 py-3 bg-primary text-primary-foreground font-cta text-base font-semibold rounded-lg shadow-soft transition-all duration-300 ease-organic hover:bg-primary/90 hover:shadow-organic hover:scale-105"
@@ -82,13 +82,13 @@ const LocationMap: React.FC<LocationMapProps> = ({ className = '' }) => {
                   <li className="flex items-start space-x-3">
                     <Icon name="BuildingLibraryIcon" size={20} className="text-primary flex-shrink-0 mt-0.5" />
                     <span className="font-body text-sm text-muted-foreground">
-                      Phoenix Public Library (2.5 miles)
+                      Scottsdale Public Library (2.5 miles)
                     </span>
                   </li>
                   <li className="flex items-start space-x-3">
                     <Icon name="HomeModernIcon" size={20} className="text-primary flex-shrink-0 mt-0.5" />
                     <span className="font-body text-sm text-muted-foreground">
-                      Downtown Phoenix (5 miles)
+                      Downtown Scottsdale (5 miles)
                     </span>
                   </li>
                 </ul>

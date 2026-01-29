@@ -5,11 +5,11 @@ import ResourcesInteractive from './components/ResourcesInteractive';
 export const metadata: Metadata = {
   title: "Family Resources & Support - Sample Assisted Living",
   description: 'Access comprehensive guides, financial planning tools, FAQs, and resources to support your family through assisted living decisions. Downloadable checklists, payment information, visiting guidelines, and regulatory compliance documentation.',
-  keywords: ['assisted living resources', 'senior care guides Phoenix', 'assisted living FAQ', 'family support resources Arizona', 'care planning tools', 'Maricopa County senior care'],
+  keywords: ['assisted living resources', 'senior care guides Scottsdale', 'assisted living FAQ', 'family support resources Arizona', 'care planning tools', 'Maricopa County senior care'],
   openGraph: {
     title: "Family Resources & Support - Sample Assisted Living",
     description: 'Access comprehensive guides, financial planning tools, and FAQs to support your family through assisted living decisions.',
-    url: 'https://godsgraceassisted.com/resources',
+    url: 'https://sampleassistedliving.com/resources',
     type: 'website',
     images: [
       {
@@ -27,7 +27,7 @@ export const metadata: Metadata = {
     images: ['/og-image.jpg'],
   },
   alternates: {
-    canonical: 'https://godsgraceassisted.com/resources',
+    canonical: 'https://sampleassistedliving.com/resources',
   },
 };
 
@@ -49,7 +49,7 @@ const faqSchema = {
       name: "How much does assisted living cost at Sample Assisted Living?",
       acceptedAnswer: {
         '@type': 'Answer',
-        text: "The cost of assisted living varies based on the level of care needed. Sample Assisted Living offers competitive pricing for our boutique, 10-resident facility in Phoenix, AZ. We accept Medicaid and can discuss payment options during your personal tour. Contact us at (480) 765-7128 for specific pricing.",
+        text: "The cost of assisted living varies based on the level of care needed. Sample Assisted Living offers competitive pricing for our boutique, 10-resident facility in Scottsdale, AZ. We accept Medicaid and can discuss payment options during your personal tour. Contact us at (480) 765-7128 for specific pricing.",
       },
     },
     {

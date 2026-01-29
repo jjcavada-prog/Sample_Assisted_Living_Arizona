@@ -76,12 +76,12 @@ const ContactSection = ({ className = '' }: ContactSectionProps) => {
               transition={{ duration: 0.6, delay: 0.4 }}
               className="flex flex-wrap justify-center gap-8 text-white/70"
             >
-              <a href="mailto:godsgraceaz.0823@gmail.com" className="flex items-center gap-2 hover:text-white transition-colors">
+              <a href="mailto:info@sampleassistedliving.com" className="flex items-center gap-2 hover:text-white transition-colors">
                 <Icon name="EnvelopeIcon" size={18} />
-                <span>godsgraceaz.0823@gmail.com</span>
+                <span>info@sampleassistedliving.com</span>
               </a>
               <span className="hidden sm:inline text-white/30">|</span>
-              <a href="https://maps.google.com/?q=15826+North+10th+Street+Phoenix+AZ+85022" className="flex items-center gap-2 hover:text-white transition-colors">
+              <a href="https://maps.google.com/?q=15826+North+10th+Street+Scottsdale+AZ+85022" className="flex items-center gap-2 hover:text-white transition-colors">
                 <Icon name="MapPinIcon" size={18} />
                 <span>1234 Main Street, Scottsdale, AZ 85251</span>
               </a>
@@ -144,10 +144,10 @@ const ContactSection = ({ className = '' }: ContactSectionProps) => {
                   </a>
                 </li>
                 <li>
-                  <a href="mailto:godsgraceaz.0823@gmail.com" className="flex items-start gap-3 text-white/70 hover:text-white transition-colors">
+                  <a href="mailto:info@sampleassistedliving.com" className="flex items-start gap-3 text-white/70 hover:text-white transition-colors">
                     <Icon name="EnvelopeIcon" size={18} className="mt-0.5 text-secondary" />
                     <div>
-                      <div className="font-medium text-white">godsgraceaz.0823@gmail.com</div>
+                      <div className="font-medium text-white">info@sampleassistedliving.com</div>
                       <div className="text-sm text-white/50">Email</div>
                     </div>
                   </a>
@@ -165,7 +165,7 @@ const ContactSection = ({ className = '' }: ContactSectionProps) => {
                   <Icon name="MapPinIcon" size={18} className="mt-0.5 text-accent" />
                   <div>
                     <div className="text-white">15826 North 10th Street</div>
-                    <div className="text-white/60">Phoenix, AZ 85022</div>
+                    <div className="text-white/60">Scottsdale, AZ 85022</div>
                   </div>
                 </div>
                 <div className="flex items-start gap-3">
