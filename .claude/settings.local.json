@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(powershell -ExecutionPolicy Bypass -File \"c:\\\\Users\\\\JJ\\\\OneDrive\\\\Desktop\\\\Care homes\\\\CASA THERESITA III\\\\update-info2.ps1\")"
+    ]
+  }
+}
