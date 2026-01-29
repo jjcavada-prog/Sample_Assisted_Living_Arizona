@@ -46,10 +46,10 @@ const serviceSchema = {
     name: "Sample Assisted Living",
     address: {
       '@type': 'PostalAddress',
-      streetAddress: '15826 North 10th Street',
+      streetAddress: '123 Sample Street',
       addressLocality: 'Scottsdale',
       addressRegion: 'AZ',
-      postalCode: '85022',
+      postalCode: '85000',
     },
   },
   serviceType: 'Assisted Living',

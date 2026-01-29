@@ -42,10 +42,10 @@ const reviewSchema = {
   image: 'https://sampleassistedliving.com/og-image.jpg',
   address: {
     '@type': 'PostalAddress',
-    streetAddress: '15826 North 10th Street',
+    streetAddress: '123 Sample Street',
     addressLocality: 'Scottsdale',
     addressRegion: 'AZ',
-    postalCode: '85022',
+    postalCode: '85000',
     addressCountry: 'US',
   },
   telephone: '+1-480-765-7128',

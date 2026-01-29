@@ -72,7 +72,7 @@ const ContactFooter: React.FC<ContactFooterProps> = ({ className = '' }) => {
                 <li className="flex items-start space-x-2">
                   <Icon name="MapPinIcon" size={18} className="text-background flex-shrink-0 mt-0.5" />
                   <span className="font-body text-sm text-background/80">
-                    15826 North 10th Street<br />Scottsdale, AZ 85022
+                    123 Sample Street<br />Scottsdale, AZ 85000
                   </span>
                 </li>
                 <li className="flex items-center space-x-2">

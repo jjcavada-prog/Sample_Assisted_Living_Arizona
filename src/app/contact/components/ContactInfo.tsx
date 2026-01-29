@@ -32,7 +32,7 @@ const contactMethods: ContactMethod[] = [
     icon: 'MapPinIcon',
     title: 'Visit Us',
     value: '1234 Main Street, Scottsdale, AZ 85251',
-    link: 'https://maps.google.com/?q=15826+North+10th+Street+Scottsdale+AZ+85022',
+    link: 'https://maps.google.com/?q=123+Sample+Street+Scottsdale+AZ+85000',
     description: 'Open for tours Monday - Saturday, 9 AM - 5 PM'
   },
   {

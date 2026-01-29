@@ -81,7 +81,7 @@ const ContactSection = ({ className = '' }: ContactSectionProps) => {
                 <span>info@sampleassistedliving.com</span>
               </a>
               <span className="hidden sm:inline text-white/30">|</span>
-              <a href="https://maps.google.com/?q=15826+North+10th+Street+Scottsdale+AZ+85022" className="flex items-center gap-2 hover:text-white transition-colors">
+              <a href="https://maps.google.com/?q=123+Sample+Street+Scottsdale+AZ+85000" className="flex items-center gap-2 hover:text-white transition-colors">
                 <Icon name="MapPinIcon" size={18} />
                 <span>1234 Main Street, Scottsdale, AZ 85251</span>
               </a>
@@ -164,8 +164,8 @@ const ContactSection = ({ className = '' }: ContactSectionProps) => {
                 <div className="flex items-start gap-3">
                   <Icon name="MapPinIcon" size={18} className="mt-0.5 text-accent" />
                   <div>
-                    <div className="text-white">15826 North 10th Street</div>
-                    <div className="text-white/60">Scottsdale, AZ 85022</div>
+                    <div className="text-white">123 Sample Street</div>
+                    <div className="text-white/60">Scottsdale, AZ 85000</div>
                   </div>
                 </div>
                 <div className="flex items-start gap-3">

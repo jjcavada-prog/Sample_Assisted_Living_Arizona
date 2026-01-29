@@ -92,10 +92,10 @@ const localBusinessSchema = {
   email: 'info@sampleassistedliving.com',
   address: {
     '@type': 'PostalAddress',
-    streetAddress: '15826 North 10th Street',
+    streetAddress: '123 Sample Street',
     addressLocality: 'Scottsdale',
     addressRegion: 'AZ',
-    postalCode: '85022',
+    postalCode: '85000',
     addressCountry: 'US',
   },
   geo: {
@@ -176,10 +176,10 @@ const organizationSchema = {
   description: "Sample Assisted Living LLC - boutique assisted living facility providing family-centered care in Scottsdale, Arizona. License: SAMPLE-001.",
   address: {
     '@type': 'PostalAddress',
-    streetAddress: '15826 North 10th Street',
+    streetAddress: '123 Sample Street',
     addressLocality: 'Scottsdale',
     addressRegion: 'AZ',
-    postalCode: '85022',
+    postalCode: '85000',
     addressCountry: 'US',
   },
   contactPoint: {

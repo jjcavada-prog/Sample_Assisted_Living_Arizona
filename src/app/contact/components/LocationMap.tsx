@@ -45,14 +45,14 @@ const LocationMap: React.FC<LocationMapProps> = ({ className = '' }) => {
                       Our Address
                     </h3>
                     <p className="font-body text-base text-muted-foreground">
-                      15826 North 10th Street<br />
-                      Scottsdale, AZ 85022
+                      123 Sample Street<br />
+                      Scottsdale, AZ 85000
                     </p>
                   </div>
                 </div>
 
                 <a
-                  href="https://maps.google.com/?q=15826+North+10th+Street+Scottsdale+AZ+85022"
+                  href="https://maps.google.com/?q=123+Sample+Street+Scottsdale+AZ+85000"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center justify-center w-full px-6 py-3 bg-primary text-primary-foreground font-cta text-base font-semibold rounded-lg shadow-soft transition-all duration-300 ease-organic hover:bg-primary/90 hover:shadow-organic hover:scale-105"
